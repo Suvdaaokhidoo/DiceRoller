@@ -32,6 +32,7 @@ class MainActivity : AppCompatActivity() {
     override fun onResume() {
         super.onResume()
         Log.i(LOG_TAG, "onResume()")
+
     }
 
     override fun onPause() {
